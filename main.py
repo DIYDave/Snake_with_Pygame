@@ -3,6 +3,8 @@ import random
 import pygame_widgets
 from pygame_widgets.button import Button
 
+# Highscore: 96!!
+
 # Konstanten
 SNAKEBLOCK = 18
 COLORBODY = 'green'
