@@ -7,3 +7,5 @@ Komplette Anleitung auf Youtube: https://youtu.be/Wlfr0vxjS0g  (German only.)
 ![alt tag](https://github.com/DIYDave/Snake_with_Pygame/blob/main/Pygame_snake_klein.jpg)
 <br>
 
+
+Graphic in image using this source: https://www.freepik.com
